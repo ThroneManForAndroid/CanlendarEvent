@@ -15,6 +15,16 @@
 		5BE2CD621C435069009B4297 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BE2CD601C435069009B4297 /* LaunchScreen.storyboard */; };
 		5BE2CD6D1C435069009B4297 /* CanlendarEventTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BE2CD6C1C435069009B4297 /* CanlendarEventTests.m */; };
 		5BE2CD781C435069009B4297 /* CanlendarEventUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BE2CD771C435069009B4297 /* CanlendarEventUITests.m */; };
+		5BE2CD941C43508E009B4297 /* 007.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE2CD861C43508E009B4297 /* 007.png */; };
+		5BE2CD951C43508E009B4297 /* 图标2，@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE2CD871C43508E009B4297 /* 图标2，@2x.png */; };
+		5BE2CD961C43508E009B4297 /* 图标3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE2CD881C43508E009B4297 /* 图标3@2x.png */; };
+		5BE2CD971C43508E009B4297 /* 图标4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE2CD891C43508E009B4297 /* 图标4@2x.png */; };
+		5BE2CD981C43508E009B4297 /* 图标@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE2CD8A1C43508E009B4297 /* 图标@2x.png */; };
+		5BE2CD991C43508E009B4297 /* 约座手机00005ios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE2CD8B1C43508E009B4297 /* 约座手机00005ios.jpg */; };
+		5BE2CD9A1C43508E009B4297 /* YZAddEventController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BE2CD8E1C43508E009B4297 /* YZAddEventController.m */; };
+		5BE2CD9B1C43508E009B4297 /* YZAddEventView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BE2CD901C43508E009B4297 /* YZAddEventView.m */; };
+		5BE2CD9C1C43508E009B4297 /* YZEventCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BE2CD921C43508E009B4297 /* YZEventCell.m */; };
+		5BE2CD9D1C43508E009B4297 /* YZEventCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BE2CD931C43508E009B4297 /* YZEventCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,19 @@
 		5BE2CD731C435069009B4297 /* CanlendarEventUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CanlendarEventUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BE2CD771C435069009B4297 /* CanlendarEventUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CanlendarEventUITests.m; sourceTree = "<group>"; };
 		5BE2CD791C435069009B4297 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5BE2CD861C43508E009B4297 /* 007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 007.png; sourceTree = "<group>"; };
+		5BE2CD871C43508E009B4297 /* 图标2，@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "图标2，@2x.png"; sourceTree = "<group>"; };
+		5BE2CD881C43508E009B4297 /* 图标3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "图标3@2x.png"; sourceTree = "<group>"; };
+		5BE2CD891C43508E009B4297 /* 图标4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "图标4@2x.png"; sourceTree = "<group>"; };
+		5BE2CD8A1C43508E009B4297 /* 图标@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "图标@2x.png"; sourceTree = "<group>"; };
+		5BE2CD8B1C43508E009B4297 /* 约座手机00005ios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "约座手机00005ios.jpg"; sourceTree = "<group>"; };
+		5BE2CD8D1C43508E009B4297 /* YZAddEventController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YZAddEventController.h; sourceTree = "<group>"; };
+		5BE2CD8E1C43508E009B4297 /* YZAddEventController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YZAddEventController.m; sourceTree = "<group>"; };
+		5BE2CD8F1C43508E009B4297 /* YZAddEventView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YZAddEventView.h; sourceTree = "<group>"; };
+		5BE2CD901C43508E009B4297 /* YZAddEventView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YZAddEventView.m; sourceTree = "<group>"; };
+		5BE2CD911C43508E009B4297 /* YZEventCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YZEventCell.h; sourceTree = "<group>"; };
+		5BE2CD921C43508E009B4297 /* YZEventCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YZEventCell.m; sourceTree = "<group>"; };
+		5BE2CD931C43508E009B4297 /* YZEventCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = YZEventCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +128,8 @@
 				5BE2CD561C435069009B4297 /* AppDelegate.m */,
 				5BE2CD581C435069009B4297 /* ViewController.h */,
 				5BE2CD591C435069009B4297 /* ViewController.m */,
+				5BE2CD851C43508E009B4297 /* Resource */,
+				5BE2CD8C1C43508E009B4297 /* YZAddEvent */,
 				5BE2CD5B1C435069009B4297 /* Main.storyboard */,
 				5BE2CD5E1C435069009B4297 /* Assets.xcassets */,
 				5BE2CD601C435069009B4297 /* LaunchScreen.storyboard */,
@@ -138,6 +163,33 @@
 				5BE2CD791C435069009B4297 /* Info.plist */,
 			);
 			path = CanlendarEventUITests;
+			sourceTree = "<group>";
+		};
+		5BE2CD851C43508E009B4297 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				5BE2CD861C43508E009B4297 /* 007.png */,
+				5BE2CD871C43508E009B4297 /* 图标2，@2x.png */,
+				5BE2CD881C43508E009B4297 /* 图标3@2x.png */,
+				5BE2CD891C43508E009B4297 /* 图标4@2x.png */,
+				5BE2CD8A1C43508E009B4297 /* 图标@2x.png */,
+				5BE2CD8B1C43508E009B4297 /* 约座手机00005ios.jpg */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		5BE2CD8C1C43508E009B4297 /* YZAddEvent */ = {
+			isa = PBXGroup;
+			children = (
+				5BE2CD8D1C43508E009B4297 /* YZAddEventController.h */,
+				5BE2CD8E1C43508E009B4297 /* YZAddEventController.m */,
+				5BE2CD8F1C43508E009B4297 /* YZAddEventView.h */,
+				5BE2CD901C43508E009B4297 /* YZAddEventView.m */,
+				5BE2CD911C43508E009B4297 /* YZEventCell.h */,
+				5BE2CD921C43508E009B4297 /* YZEventCell.m */,
+				5BE2CD931C43508E009B4297 /* YZEventCell.xib */,
+			);
+			path = YZAddEvent;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -247,8 +299,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BE2CD621C435069009B4297 /* LaunchScreen.storyboard in Resources */,
+				5BE2CD941C43508E009B4297 /* 007.png in Resources */,
 				5BE2CD5F1C435069009B4297 /* Assets.xcassets in Resources */,
+				5BE2CD9D1C43508E009B4297 /* YZEventCell.xib in Resources */,
+				5BE2CD981C43508E009B4297 /* 图标@2x.png in Resources */,
+				5BE2CD951C43508E009B4297 /* 图标2，@2x.png in Resources */,
+				5BE2CD991C43508E009B4297 /* 约座手机00005ios.jpg in Resources */,
 				5BE2CD5D1C435069009B4297 /* Main.storyboard in Resources */,
+				5BE2CD961C43508E009B4297 /* 图标3@2x.png in Resources */,
+				5BE2CD971C43508E009B4297 /* 图标4@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,9 +332,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BE2CD9B1C43508E009B4297 /* YZAddEventView.m in Sources */,
 				5BE2CD5A1C435069009B4297 /* ViewController.m in Sources */,
 				5BE2CD571C435069009B4297 /* AppDelegate.m in Sources */,
 				5BE2CD541C435069009B4297 /* main.m in Sources */,
+				5BE2CD9A1C43508E009B4297 /* YZAddEventController.m in Sources */,
+				5BE2CD9C1C43508E009B4297 /* YZEventCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +477,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CanlendarEvent/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuezuo.CanlendarEvent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -426,6 +489,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CanlendarEvent/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuezuo.CanlendarEvent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
